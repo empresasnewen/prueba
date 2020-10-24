@@ -1,6 +1,6 @@
-<?php
+<?php 
+echo "------------------- INICIO CAMBIOS MCOLOMA------------------------";
+echo "dando jugo con GIT";
+echo "------------------- FIN CAMBIOS MCOLOMA ------------------------";
+
 echo "archivo principal";
-echo "<br>APRUEBO";
-echo "<br>cambiando la rama";
-echo "<br>chaooooo";
-?>
